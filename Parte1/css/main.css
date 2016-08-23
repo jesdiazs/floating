@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+.box{
+	height: 100px;
+	width:25%;
+}
+.contenedor{
+	background-color: white;
+	border: 1px solid grey;
+	width: 80%;
+}
+.yellow{
+	background-color: #F7ED16;
+}
+.blue{
+	background-color:#0D11C2; 
+}
+.red{
+	background-color:#C20D23;
+}
